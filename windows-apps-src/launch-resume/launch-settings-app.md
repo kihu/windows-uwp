@@ -114,6 +114,21 @@ Use the following URIs to open various pages of the Settings app. Note that the 
         <td>ms-settings:about</td>
     </tr>
     <tr>
+        <td>Storage</td>
+        <td>Both</td>
+        <td>ms-settings:storagesense</td>
+    </tr>
+    <tr>
+        <td>Storage Sense</td>
+        <td>Desktop only</td>
+        <td>ms-settings:storagepolicies</td>
+    </tr>
+    <tr>
+        <td>Default Save Locations</td>
+        <td>Desktop only</td>
+        <td>ms-settings:savelocations</td>
+    </tr>
+    <tr>
         <td>Encryption</td>
         <td>Both</td>
         <td>ms-settings:deviceencryption</td>
